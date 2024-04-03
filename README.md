@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Anusha!
 - 👩‍💻 I am currently working as a Data Lead in Athena Infonomics, an Impact Solutions group.
-- 👩‍🎓 I just finished my Master's in Applied Social Data Science at the London School of Economics 
+- 👩‍🎓 I have a Master's in Applied Social Data Science from the London School of Economics 
 - 🌱 I’m always learning Python, R, and GIS
 - 📫 How to reach me: hello@quofles.me
 
